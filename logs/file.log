@@ -1,0 +1,2 @@
+2023-02-14 23:52:17,779 - INFO - root - <module>:31 - <--> The main page <-->
+2023-02-14 23:52:17,780 - INFO - json_genarator - generate_json:22 - {"group_name": "Grind House", "country_name": "Dominican Republic", "surname_name": "Ponce", "mail_name": "Allen", "female_name": "Robbie"}
