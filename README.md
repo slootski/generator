@@ -7,8 +7,8 @@ https://towardsdev.com/3-simple-steps-to-set-up-kafka-locally-using-docker-b07f7
 ## Docker
 To build a docker run:
 
-docker build . -t generator.v1
+`docker build . -t generator.v1`
 
 To run the docker
 
-docker run -p 8000:8000  generator.v1
+`docker run -p 8000:8000  generator.v1`
